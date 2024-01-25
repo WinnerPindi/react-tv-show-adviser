@@ -21,21 +21,15 @@ Pour lancer l'application en local, suivez ces étapes :
 1. Clonez ce dépôt.
 2. Installez les dépendances en exécutant `npm install`.
 3. Démarrez l'application avec `npm start`.
-4. Accédez à `http://localhost:3000` dans votre navigateur.
 
 ## Configuration de l'API
-
 Pour utiliser l'API TMDb, vous devez obtenir une clé API en vous inscrivant sur [The Movie Database](https://www.themoviedb.org/documentation/api).
 
-Après avoir obtenu votre clé, créez un fichier `.env` dans le répertoire racine de l'application et ajoutez votre clé API.
 
 ## Contribution
-
 Les contributions sont toujours les bienvenues. N'hésitez pas à forker ce dépôt, à apporter vos modifications et à soumettre une pull request.
 
 ## Licence
-
-
 Ce projet n'est pas affilié, autorisé, maintenu, parrainé ou approuvé par TMDb ou l'un de ses affiliés.
 
 
