@@ -1,4 +1,4 @@
-# Nom de Votre Application
+# Watowatch
 
 Bienvenue sur le dépôt de Watowatch, une application web React conçue pour recommander des films et des séries. Elle utilise l'API The Movie Database (TMDb) pour fournir des informations à jour et détaillées sur une vaste gamme de titres.
 
