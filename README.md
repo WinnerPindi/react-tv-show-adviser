@@ -5,8 +5,8 @@ Bienvenue sur le dépôt de Watowatch, une application web React conçue pour re
 ## Fonctionnalités
 
 - **Recherche de Films et Séries**: Trouvez vos films et séries préférés en utilisant la fonction de recherche intégrée.
-- **Recommandations Personnalisées**: Recevez des recommandations basées sur vos goûts et préférences.
-- **Détails des Titres**: Consultez des informations détaillées telles que les acteurs, les notes, les bandes-annonces et plus encore.
+- **Recommandations Personnalisées**: Recevez des recommandations.
+- **Détails des Titres**: Consultez des informations détaillées telles que la description et les notes.
 - **Interface Réactive**: Profitez d'une expérience utilisateur fluide sur tous vos appareils.
 
 ## Technologies Utilisées
